@@ -1,3 +1,4 @@
+//Bruna Felix - 25/09
 document.addEventListener('DOMContentLoaded', () => {
     const passos = document.querySelectorAll('.passo');
     const botoes = document.querySelectorAll('.btn-proximo');
